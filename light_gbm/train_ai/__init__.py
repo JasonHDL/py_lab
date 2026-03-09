@@ -1,1 +1,1 @@
-base_dir = "../data"
+base_dir = "./data"
